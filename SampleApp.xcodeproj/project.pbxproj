@@ -22,6 +22,7 @@
 		08084B5A1BDA600100382BDB /* Clockin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08084B591BDA600100382BDB /* Clockin.swift */; settings = {ASSET_TAGS = (); }; };
 		08DE6B2B1BE105E90013DA37 /* newfilegit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08DE6B2A1BE105E90013DA37 /* newfilegit.swift */; settings = {ASSET_TAGS = (); }; };
 		08DE6B2D1BE1EB820013DA37 /* Sample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08DE6B2C1BE1EB820013DA37 /* Sample.swift */; settings = {ASSET_TAGS = (); }; };
+		08DE6B2F1BE1F3EE0013DA37 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08DE6B2E1BE1F3EE0013DA37 /* Test.swift */; settings = {ASSET_TAGS = (); }; };
 		08E361271BDB50BC008D82B4 /* adminpage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08E361261BDB50BC008D82B4 /* adminpage.swift */; settings = {ASSET_TAGS = (); }; };
 		08EBF1A91BDE091D00B96300 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 08EBF1A81BDE091D00B96300 /* Default-568h@2x.png */; settings = {ASSET_TAGS = (); }; };
 		08EBF1AD1BDE0E7300B96300 /* a.png in Resources */ = {isa = PBXBuildFile; fileRef = 08EBF1AC1BDE0E7300B96300 /* a.png */; settings = {ASSET_TAGS = (); }; };
@@ -74,6 +75,7 @@
 		08084B591BDA600100382BDB /* Clockin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Clockin.swift; sourceTree = "<group>"; };
 		08DE6B2A1BE105E90013DA37 /* newfilegit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = newfilegit.swift; sourceTree = "<group>"; };
 		08DE6B2C1BE1EB820013DA37 /* Sample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sample.swift; sourceTree = "<group>"; };
+		08DE6B2E1BE1F3EE0013DA37 /* Test.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 		08E361261BDB50BC008D82B4 /* adminpage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = adminpage.swift; path = ../adminpage.swift; sourceTree = "<group>"; };
 		08EBF1A81BDE091D00B96300 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		08EBF1AC1BDE0E7300B96300 /* a.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = a.png; path = SampleApp/a.png; sourceTree = "<group>"; };
@@ -115,6 +117,7 @@
 		08084A551BDA028000382BDB = {
 			isa = PBXGroup;
 			children = (
+				08DE6B2E1BE1F3EE0013DA37 /* Test.swift */,
 				08DE6B2C1BE1EB820013DA37 /* Sample.swift */,
 				08EBF1A81BDE091D00B96300 /* Default-568h@2x.png */,
 				08084A8F1BDA0BFD00382BDB /* MycustomeButton.swift */,
@@ -337,6 +340,7 @@
 			files = (
 				08084A641BDA028000382BDB /* ViewController.swift in Sources */,
 				08DE6B2D1BE1EB820013DA37 /* Sample.swift in Sources */,
+				08DE6B2F1BE1F3EE0013DA37 /* Test.swift in Sources */,
 				08084A901BDA0BFD00382BDB /* MycustomeButton.swift in Sources */,
 				08DE6B2B1BE105E90013DA37 /* newfilegit.swift in Sources */,
 				08084B5A1BDA600100382BDB /* Clockin.swift in Sources */,
