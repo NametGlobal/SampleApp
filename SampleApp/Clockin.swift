@@ -24,10 +24,10 @@ class Clockin: UIViewController {
         
         btnserver.layer.borderWidth=2
         btnserver.layer.borderColor = UIColor.whiteColor().CGColor
-        btnserver.layer.cornerRadius = 13
+        btnserver.layer.cornerRadius = 14
         btnserver.layer.backgroundColor=UIColor.blueColor().CGColor
         
-        btnkitchen.layer.borderWidth=2
+        btnkitchen.layer.borderWidth=10
         btnkitchen.layer.borderColor = UIColor.whiteColor().CGColor
         btnkitchen.layer.cornerRadius = 13
         btnkitchen.layer.backgroundColor=UIColor.blueColor().CGColor
